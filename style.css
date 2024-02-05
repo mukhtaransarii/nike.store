@@ -32,7 +32,7 @@ body{
 			 display: flex;
 			 justify-content: space-between;
 		  align-items: center;
-				 
+			z-index : 999;	 
 			}
 	 .Mb1 nav ul li{
 	 	 display: inline-block;
